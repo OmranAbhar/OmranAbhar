@@ -18,6 +18,6 @@ Currently, I live in Afghanistan and work at <b>Ministry of Communications and I
 ![](https://img.shields.io/badge/Code-Redux-informational?style=plastic&logo=Redux&logoColor=white&color=4ABfff)
 
 ## ☎️ Contact
-[![LeetCode Badge](https://img.shields.io/badge/Leetcode-Profile-informational?style=flat&logo=leetcode&logoColor=white&color=1CA2F1)](https://leedcode.com/Omranabhar)
+[![LeetCode Badge](https://img.shields.io/badge/Leetcode-Profile-informational?style=flat&logo=leetcode&logoColor=white&color=1CA2F1)](https://leetcode.com/Omranabhar)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omranabhar)
 
