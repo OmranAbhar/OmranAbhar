@@ -5,7 +5,7 @@ I'm Mir Omranudin Abhar <br>
 <!-- Currently, I live in Afghanistan and work at <b>Ministry of Communications and Information Technology</b>. -->
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=omranabhar&theme=react-dark">
+<!--  <img src="https://activity-graph.herokuapp.com/graph?username=omranabhar&theme=react-dark"> -->
 </p> 
 
 ## 🌍 Find me elsewhere
